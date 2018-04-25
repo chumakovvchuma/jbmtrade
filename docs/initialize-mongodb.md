@@ -31,7 +31,7 @@ db.tokens.insert({
   date_created: new Date(),
   expiration: 72,
   name: 'Owner',
-  email: 'email@domain.com',
+  email: 'v.chumakovv@gmail.com',
   scopes: ['admin']  
 });
 ```
